@@ -13,10 +13,5 @@ House Price Prediction is an analytical model based on the House-Price dataset i
 ### *Create New Additional Feature from Feature in Dataset
 ### *Categorical Encoding
 
-## 3.House Price Prediction Model:
-### *Random Forest
-### *XGBoost (XGB)
-### *LightGBM
-### *Neural Networks
 
-## 4.Prediction
+## 3.Prediction
